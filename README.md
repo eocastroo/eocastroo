@@ -6,8 +6,7 @@ Igualmente busco obtener experiencia laborar en desarrollo.
 
 Me puedes encontrar:
 
--[linkedin](https://www.linkedin.com/in/edwin-orlando-castro-orjuela-803293160/)
-
+-[Linkedin](https://www.linkedin.com/in/edwin-orlando-castro-orjuela-803293160/)
 <!--
 **eocastroo/eocastroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
