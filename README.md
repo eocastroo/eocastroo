@@ -1,23 +1,24 @@
 
-![Developer full stack (1)](https://user-images.githubusercontent.com/63713649/108563524-934c9b00-72cf-11eb-91a7-375c65a9999c.gif)
+ <div align="center"> 
+   <img src="https://plus.unsplash.com/premium_photo-1685086785636-2a1a0e5b591f?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   width="500" high="300">   
+ </div>
 
-Actualmente me encuentro aprendiendo desarrollo web para ser un Full Stack , tengo conocimiento en  JavaScript, ECMAScripts, React JS, Router, Redux, Node.js, CSS, HTML5  en este momento ya completo un año interactuando con el proyecto de la escuela Platzi. 
-Igualmente busco obtener experiencia laborar en desarrollo.
+Analista y desarrollo web, tengo conocimiento en  JavaScript, ECMAScript, React, JS, router, Redox, Node.js, CSS, HTML5. Trabajo como analista de soporte nivel 3 en CRM. Soy una persona proactiva y responsable, dispuesta a asumir retos que sumen a mi carrera profesional.
 
 Me puedes encontrar:
 
 -[Linkedin](https://www.linkedin.com/in/edwin-orlando-castro-orjuela-803293160/)
-<!--
-**eocastroo/eocastroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on CRM application analyst
+- 🌱 I’m currently learning Angular and python
+- 👯 I’m looking to collaborate on JavaScript, ECMAScript, React, JS, router, Redox, Node.js, CSS, HTML5
+- 🤔 I’m looking for help with what you want
+- 💬 Ask me about Analyst and Developer
+- 📫 How to reach me: edwinorlandocastro@hotmail.com
+- 😄 Pronouns: Edwin  
+- ⚡ Fun fact: I like soccer and  reading
+
