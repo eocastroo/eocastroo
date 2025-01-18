@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Angular and python
 - 👯 I’m looking to collaborate on JavaScript, ECMAScript, React, JS, router, Redox, Node.js, CSS, HTML5
 - 🤔 I’m looking for help with what you want
-- 💬 Ask me about Analyst and Developer
+- 💬 Ask me about development, servers, operating systems
 - 📫 How to reach me: edwinorlandocastro@hotmail.com
 - 😄 Pronouns: Edwin  
-- ⚡ Fun fact: I like soccer and  reading
+- ⚡ Fun fact: I like soccer and reading
 
