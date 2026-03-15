@@ -123,9 +123,9 @@ databases, debugging, and enterprise systems.
 
 # 📫 Connect With Me
 
-💼 LinkedIn  : https://www.linkedin.com/in/edwin-orlando-castro-orjuela-803293160/  
-📧 Email     : edwinorjuela412@gmail.com
-🌐 Portfolio : https://portafolio-edwin-castro.onrender.com/
+💼 LinkedIn: https://www.linkedin.com/in/edwin-orlando-castro-orjuela-803293160/  
+📧 Email:  edwinorjuela412@gmail.com
+🌐 Portfolio: https://portafolio-edwin-castro.onrender.com
 
 ---
 
