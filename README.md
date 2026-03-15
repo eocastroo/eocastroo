@@ -1,24 +1,105 @@
+<h1 align="center">Hi 👋, I'm Edwin Orlando Castro</h1>
+<h3 align="center">Software Analyst | Full Stack Developer</h3>
 
- <div align="center"> 
-   <img src="https://plus.unsplash.com/premium_photo-1685086785636-2a1a0e5b591f?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-   width="500" high="300">   
- </div>
+<p align="center">
+Passionate about software development, backend architecture and problem solving.
+Currently working as a CRM Support Analyst Level 3 with strong experience in
+databases, debugging, and enterprise systems.
+</p>
 
-Analista y desarrollo web, tengo conocimiento en  JavaScript, ECMAScript, React, JS, router, Redox, Node.js, CSS, HTML5. Trabajo como analista de soporte nivel 3 en CRM. Soy una persona proactiva y responsable, dispuesta a asumir retos que sumen a mi carrera profesional.
+---
 
-Me puedes encontrar:
+# 👨‍💻 About Me
 
--[Linkedin](https://www.linkedin.com/in/edwin-orlando-castro-orjuela-803293160/)
+- 💻 Software Analyst and Web Developer
+- 🔎 Experience analyzing incidents and debugging enterprise CRM systems
+- ⚙️ Strong backend development focus
+- 🌱 Currently improving skills in **Spring Boot, Microservices and Cloud**
+- 🚀 Interested in **Backend Engineering, APIs and Software Architecture**
 
+---
 
-Here are some ideas to get you started:
+# 🚀 Tech Stack
 
-- 🔭 I’m currently working on CRM application analyst
-- 🌱 I’m currently learning Angular and python
-- 👯 I’m looking to collaborate on JavaScript, ECMAScript, React, JS, router, Redox, Node.js, CSS, HTML5
-- 🤔 I’m looking for help with what you want
-- 💬 Ask me about development, servers, operating systems
-- 📫 How to reach me: edwinorlandocastro@hotmail.com
-- 😄 Pronouns: Edwin  
-- ⚡ Fun fact: I like soccer and reading
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- Node.js
 
+### Frontend
+- Angular
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Databases
+- SQL Server
+- Oracle
+- MySQL
+
+### DevOps & Tools
+- Git
+- GitLab
+- Azure DevOps
+- Postman
+- Maven
+
+### Operating Systems
+- Linux
+- Windows Server
+
+---
+
+# ⚙️ Development Tools
+
+- Visual Studio Code
+- IntelliJ IDEA
+- Postman
+- GitLab CI/CD
+- Docker (basic)
+
+---
+
+# 📂 Main Areas of Expertise
+
+✔ Backend API Development  
+✔ Enterprise CRM Support and Debugging  
+✔ Database Analysis and Optimization  
+✔ Incident Management and Troubleshooting  
+✔ Web Application Development  
+
+---
+
+# 🔧 Technologies & Frameworks
+
+| Backend | Frontend | DevOps | Databases |
+|-------|-------|-------|-------|
+| Java | Angular | GitLab | SQL Server |
+| Spring Boot | React | Azure DevOps | Oracle |
+| Node.js | JavaScript | Git | MySQL |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eocastroo&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eocastroo&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/edwin-orlando-castro-orjuela-803293160/
+- 📧 Email: edwinorjuela412@gmail.com
+- 🌎 Portfolio:https://portafolio-edwin-castro.onrender.com/
+
+---
+
+⭐ Always learning and building better software solutions.
